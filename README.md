@@ -1,3 +1,1 @@
 # Honey-Drone
-We propose HoneyDrone, the first honeypot that is specifically designed for the protection of UAVs.
-HoneyDrone is a honeypot that mimics various UAV-specific and UAV-tailored protocols, creating opportunities for adversaries to launch attacks on it. The honeypot is designed to be deployed in multiple locations using low-cost portable devices such as Raspberry Pis. By using HoneyDrone, users are able to identify active attackers within a specific area and gain insight into the techniques employed by adversaries to compromise UAVs. Our team has evaluated the performance of HoneyDrone and conducted tests on different attack scenarios to demonstrate its effectiveness in coping with these threats.
